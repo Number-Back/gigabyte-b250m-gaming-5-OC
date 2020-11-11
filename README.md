@@ -18,8 +18,4 @@ Hackintool
 
 MacOS: macOS Catalina 10.15.7 (19H15)
 
-Setup Not yet completed
-
 Guide: https://dortania.github.io/OpenCore-Install-Guide/
-
-
